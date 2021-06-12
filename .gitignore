@@ -53,7 +53,7 @@ dkms.conf
 
 #Custom
 
-./build/*
-./debug/*
-./docs/*
-
+/build/*
+/debug/*
+/docs/*
+/temp/*
